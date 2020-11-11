@@ -8,7 +8,7 @@ It contains the following profiles:
 * Command Prompt
 ![CommandPrompt](./img/commandprompt-screenshot.png)
 * Ubuntu-18.04 (for WSL/WSL2)
-![Ubuntu](./img/ubuntu-screenshot.png)
+![Ubuntu](./img/Ubuntu-screenshot.png)
 * Azure Cloud Shell
 ![AzCloudShell](./img/AzCloudshell-screenshot.png)
 
