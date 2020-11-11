@@ -42,7 +42,8 @@
                 "commandline": "powershell.exe",
                 "hidden": false,
                 "colorScheme": "PowerShell",
-                "backgroundImage": "C:/Users/DavidSmith/OneDrive - 10th Magnitude/Pictures/Wallpaper/batman-and-robin-photo-u1.webp"
+                "backgroundImage": "%LOCALAPPDATA%/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/Hobbiton.jpg"
+                
             },
             {
                 // Make changes here to the cmd.exe profile.
@@ -65,7 +66,7 @@
                 "colorScheme": "UbuntuLegit",
                 "fontFace": "Cascadia Code",
                 "acrylicOpacity": 0.8,
-                "backgroundImage": "C:/Users/DavidSmith/OneDrive - 10th Magnitude/Pictures/Wallpaper/dallas-skyline-pano.jpg"
+                "backgroundImage": "%LOCALAPPDATA%/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/dallas-skyline-pano.jpg"
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
@@ -74,7 +75,7 @@
                 "source": "Windows.Terminal.Azure",
                 "colorScheme": "PowerShell",
                 "fontFace": "Courier New",
-                "backgroundImage": "C:/Users/DavidSmith/OneDrive - 10th Magnitude/Pictures/Wallpaper/My Photography/IMG_3739.jpg"
+                "backgroundImage": "%LOCALAPPDATA%/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/Montserrat-Cable-Car.jpg"
             }
         ]
     },
