@@ -75,18 +75,6 @@
                 "colorScheme": "PowerShell",
                 "fontFace": "Courier New",
                 "backgroundImage": "C:/Users/DavidSmith/OneDrive - 10th Magnitude/Pictures/Wallpaper/My Photography/IMG_3739.jpg"
-            },
-            {
-                "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
-                "hidden": false,
-                "name": "kali-linux",
-                "source": "Windows.Terminal.Wsl"
-            },
-            {
-                "guid": "{2b31bbfc-067a-5da6-96de-694569bda618}",
-                "hidden": false,
-                "name": "SLES-15-SP1",
-                "source": "Windows.Terminal.Wsl"
             }
         ]
     },
