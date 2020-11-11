@@ -6,11 +6,11 @@ It contains the following profiles:
 * Windows PowerShell
 ![PowerShell](./img/PowerShell-screenshot.png)
 * Command Prompt
-![CommandPrompt](img/commandprompt-screenshot.png)
+![CommandPrompt](./img/commandprompt-screenshot.png)
 * Ubuntu-18.04 (for WSL/WSL2)
-![Ubuntu](img/ubuntu-screenshot.png)
+![Ubuntu](./img/Ubuntu-screenshot.png)
 * Azure Cloud Shell
-![AzCloudShell](img/AzCloudshell-screenshot.png)
+![AzCloudShell](./img/AzCloudshell-screenshot.png)
 
 I've also included copies of the images I'm using for the background.  
 
