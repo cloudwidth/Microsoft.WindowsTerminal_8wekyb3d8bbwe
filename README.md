@@ -14,7 +14,7 @@ It contains the following profiles:
 
 I've also included copies of the images I'm using for the background.  
 
-## To use this as YOUR settings file:
+## To use this as YOUR settings file
 
 1. Clone this repo down to your computer.
 2. Copy the settings.json file and the jpg files to the following directory (changing USERNAME to match yours):
