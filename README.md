@@ -4,6 +4,7 @@ This repo contains a copy of my settings.json file for my Windows Terminal.
 
 It contains the following profiles:
 * Windows PowerShell
+![PowerShell](Hobbiton.jpg)
 * Command Prompt
 * Ubuntu-18.04 (for WSL/WSL2)
 * Azure Cloud Shell
